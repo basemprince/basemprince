@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Basem (Sam)
-- 📚 I have a bachelor's degree in Mechanical Engineering [Canada]
-- 🌱 I’m currently finishing a master's degree in Autunomus Systems [Sweden & Italy]
-- 🕸 My website portfolio for more info: [LINK](https://basemprince.github.io/) 
+- 📚 I have a master's degree in Autunomus Systems [Sweden & Italy]
+- 🌱 I have a bachelor's degree in Mechanical Engineering [Canada]
+- 🕸 My website portfolio for more info: [LINK](https://www.basemshaker.com) 
